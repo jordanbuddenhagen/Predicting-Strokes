@@ -24,4 +24,4 @@ weighted avg       0.90      0.94      0.91      1277
 ### The model would do a great job predicting people that would not have strokes based on age, health issues, environment, etc.  However, there was not enough data on people that have had a stroke to predict who has had a stroke. 
 
 ## Recommendations: 
-- In the end, I need more data for patients who have had a stroke.  The No stroke patients had a lot of bias in my models and it could only accurately predict patients without a stroke 
+- In the end, I need more data for patients who have had a stroke.  The 'No stroke' patients had a lot of bias in my models and it could only accurately predict patients without a stroke.
